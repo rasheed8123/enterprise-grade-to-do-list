@@ -84,8 +84,8 @@ TaskFlow is a modern, AI-powered task management application that uses natural l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rasheed8123/taskflow.git
-   cd taskflow
+   git clone https://github.com/rasheed8123/enterprise-grade-to-do-list.git
+   cd enterprise-grade-to-do-list
    ```
 
 2. Install dependencies:
