@@ -4,6 +4,11 @@ TaskFlow is a modern, AI-powered task management application that uses natural l
 
 ![TaskFlow Screenshot](screenshot.png)
 
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/2a85f1d9-92d6-4820-9132-36583390f9b4" />
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/ab98a695-a38d-4531-aba8-e4877b07c7a5" />
+
+
+
 ## 🌟 Features
 
 - **Natural Language Task Input**: Add tasks using everyday language
